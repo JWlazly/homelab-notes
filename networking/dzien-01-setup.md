@@ -36,9 +36,9 @@ połączonych siecią wewnętrzną, ze statycznymi IP.
   po Enable-NetFirewallRule wrócił do 0% loss
 
 ## Screenshoty
-![ping-Win_do_Ubuntu](../screenshots/dzien-01-ping-Win_do_Ubuntu.png)
-![ping-Ubuntu_do_Win](../screenshots/dzien-01-ping-Ubuntu_do_Win.png)
-![ping-regula_off-fail](../screenshots/dzien-01-ping-regula_off-fail.png)
-![ping-regula_on-sukces](../screenshots/dzien-01-ping-regula_on-sukces.png)
-![dokumentacja_calosci_Ubuntu](../screenshots/dzien-01-dokumentacja_calosci_Ubuntu.png)
-![dokumentacja_calosci_Win](../screenshots/dzien-01-dokumentacja_calosci_Win.png)
+![ping-Win_do_Ubuntu](../screenshots/ping-Win_do_Ubuntu.png)
+![ping-Ubuntu_do_Win](../screenshots/ping-Ubuntu_do_Win.png)
+![ping-regula_off-fail](../screenshots/ping-regula_off-fail.png)
+![ping-regula_on-sukces](../screenshots/ping-regula_on-sukces.png)
+![dokumentacja_calosci_Ubuntu](../screenshots/dokumentacja_calosci_Ubuntu.png)
+![dokumentacja_calosci_Win](../screenshots/dokumentacja_calosci_Win.png)
