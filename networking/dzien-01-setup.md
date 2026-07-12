@@ -38,7 +38,7 @@ połączonych siecią wewnętrzną, ze statycznymi IP.
 ## Screenshoty
 ![ping-Win_do_Ubuntu](../screenshots/dzien01-ping-Win_do_Ubuntu.png)
 ![ping-Ubuntu_do_Win](../screenshots/dzien01-ping-Ubuntu_do_Win.png)
-![ping-reguła_off-fail](../screenshots/dzien01-ping-reguła_off-fail.png)
-![ping-reguła_on-sukces](../screenshots/dzien01-ping-reguła_on-sukces.png)
-![dokumentacja_całości_Ubuntu](../screenshots/dzien01-dokumentacja_całości_Ubuntu.png)
-![dokumentacja_całości_Win](../screenshots/dzien01-dokumentacja_całości_Win.png)
+![ping-regula_off-fail](../screenshots/dzien01-ping-regula_off-fail.png)
+![ping-regula_on-sukces](../screenshots/dzien01-ping-regula_on-sukces.png)
+![dokumentacja_calosci_Ubuntu](../screenshots/dzien01-dokumentacja_calosci_Ubuntu.png)
+![dokumentacja_calosci_Win](../screenshots/dzien01-dokumentacja_calosci_Win.png)
